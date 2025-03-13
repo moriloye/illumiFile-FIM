@@ -7,8 +7,3 @@ illumiFile is a platform to monitor your systems. It focuses on File Integrity M
 
 The development version is hosted on GitHub and just a simple git clone away. 
 
-## Screenshots ##
-
-*File Integrity Monitoring*
-
-![FIM](./doc/images/fim-test.gif)
