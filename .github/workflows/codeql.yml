@@ -23,7 +23,7 @@ jobs:
       matrix:
         language: [ 'cpp', 'python' ]
         include:
-          - os: ubuntu-18.04
+          - os: ubuntu-22.04
             DB: none
             OSSEC_TYPE: agent
             GEOIP: no
